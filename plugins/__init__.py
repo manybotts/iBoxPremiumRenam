@@ -27,7 +27,7 @@ License Link : https://github.com/RknDeveloper/Rkn-rename-bot-V3/blob/main/LICEN
 __name__ = "Rename-Bot"
 __version__ = "3.0.2"
 __license__ = " Apache License, Version 2.0"
-__copyright__ = "Copyright (C) 2022-present RknDeveloper <https://github.com/RknDeveloper>"
+__copyright__ = "Copyright (C) 2022-present RknDeveloper <https://t.me/iBOX_TV>"
 
 # main working files 
 # - bot.py
